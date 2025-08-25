@@ -1,0 +1,3 @@
+[submodule "sites/blog/themes/gokarna-hugo"]
+	path = sites/blog/themes/gokarna-hugo
+	url = https://github.com/gokarna-theme/gokarna-hugo

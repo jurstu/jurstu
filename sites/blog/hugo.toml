@@ -1,0 +1,27 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-US"
+title = "Hallotron journey"
+theme = "gokarna-hugo"
+buildFuture = true
+paginate = 10
+mainSections = ["posts", "pictures"]
+
+[params]
+  defaultTheme = "auto"
+  avatarAltText = "avatar"
+  avatarSize = "size-m"
+  avatarURL = "/bg/output.png"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
+    weight = 2
+
+    [[menu.main]]
+      name = "Pictures"
+      pre = "<span data-feather='camera'></span>"
+      url = "/pictures/"
+      weight = 2
