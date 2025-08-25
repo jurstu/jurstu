@@ -11,4 +11,4 @@ draft: false
 ---
 
 # Post number 1 
-At this point in time, I'm trying to get through installation of Hugo blog system... somewhere in my infrastructure... : 
+At this point in time, I'm trying to get through installation of Hugo blog system... somewhere in my infrastructure... :]
