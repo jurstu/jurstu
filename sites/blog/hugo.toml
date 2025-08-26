@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "http://harold:1313/"
 languageCode = "en-US"
 title = "Hallotron journey"
 theme = "gokarna-hugo"
