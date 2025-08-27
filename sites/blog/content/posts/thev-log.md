@@ -14,7 +14,7 @@ Creating this blog is kind of a fun part for me. Partly I hate it, but partly it
 
 ![alt text](/thev-log/image.png)
 
-It's exactly like this, but I'm 3780 times more pissed than I should be 😅.
+It's exactly like this, but I'm 3780 % more pissed than I should be 😅...
 
 There were so many commits tonight, that I actually broke my rule and got myself a git-push script..
 
