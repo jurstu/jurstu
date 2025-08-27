@@ -11,8 +11,9 @@ mainSections = ["posts", "pictures"]
   avatarAltText = "avatar"
   avatarSize = "size-m"
   # Remove leading slash: this will resolve to https://jurstu.github.io/blog/bg/output.png
-  avatarURL = "/bg/output.png"
+  avatarURL = "https://blog.hallotron.fyi/bg/output.png"
 
+  
 [menu]
 
   [[menu.main]]
