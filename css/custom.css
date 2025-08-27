@@ -1,0 +1,25 @@
+/* Full-page background image */
+html, body {
+  height: 100%;
+}
+body {
+  background-image: url("/bg/output.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;          /* stretch/cover whole page */
+  background-attachment: fixed;    /* nice parallax-style feel; drop if you dislike */
+}
+
+/* Optional: ensure content stays readable on busy images */
+.main, .post, .post-content, .content {
+  background: rgba(255, 255, 255, 0.65);  /* or use 0.15–0.35 if your PNG is already faint */
+  backdrop-filter: saturate(110%) blur(2px);
+  border-radius: 12px;
+}
+
+/* Respect dark mode (Gokarna supports it) */
+@media (prefers-color-scheme: dark) {
+  .main, .post, .post-content, .content {
+    background: rgba(0, 0, 0, 0.45);
+  }
+}
