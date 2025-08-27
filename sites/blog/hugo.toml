@@ -1,4 +1,4 @@
-baseURL = "https://jurstu.github.io/blog/"
+baseURL = "baseURL = "https://blog.hallotron.fyi/"
 languageCode = "en-US"
 title = "Hallotron journey"
 theme = "gokarna-hugo"
