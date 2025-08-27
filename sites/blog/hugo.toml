@@ -1,6 +1,6 @@
 baseURL = "https://jurstu.github.io/blog/"
-relativeURLs = false
-canonifyURLs = false
+# relativeURLs = false
+# canonifyURLs = false
 languageCode = "en-US"
 title = "Hallotron journey"
 theme = "gokarna-hugo"
