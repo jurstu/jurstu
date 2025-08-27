@@ -1,6 +1,4 @@
 baseURL = "https://jurstu.github.io/blog/"
-# relativeURLs = false
-# canonifyURLs = false
 languageCode = "en-US"
 title = "Hallotron journey"
 theme = "gokarna-hugo"
@@ -12,18 +10,20 @@ mainSections = ["posts", "pictures"]
   defaultTheme = "auto"
   avatarAltText = "avatar"
   avatarSize = "size-m"
-  avatarURL = "/bg/output.png"
+  # Remove leading slash: this will resolve to https://jurstu.github.io/blog/bg/output.png
+  avatarURL = "bg/output.png"
 
 [menu]
 
   [[menu.main]]
     name = "Posts"
     pre = "<span data-feather='book'></span>"
-    url = "/posts/"
+    # remove leading slash
+    url = "posts/"
     weight = 2
 
-    [[menu.main]]
-      name = "Pictures"
-      pre = "<span data-feather='camera'></span>"
-      url = "/pictures/"
-      weight = 2
+  [[menu.main]]
+    name = "Pictures"
+    pre = "<span data-feather='camera'></span>"
+    url = "pictures/"
+    weight = 3
