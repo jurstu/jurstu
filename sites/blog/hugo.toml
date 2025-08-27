@@ -1,5 +1,5 @@
 baseURL = "https://jurstu.github.io/blog/"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 languageCode = "en-US"
 title = "Hallotron journey"
