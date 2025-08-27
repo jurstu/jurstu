@@ -28,3 +28,8 @@ Nice to have-s:
 - [ ] self-managed-file-deleting back-end
 - [ ] option to select which model is used for the bgRemoval
 - [ ] publically available on github to finally give back to community! 
+
+
+# 27.08.2025 23:05 update
+
+Yea, I did it, It's available at [https://github.com/jurstu/Background-Blaster](https://github.com/jurstu/Background-Blaster)
