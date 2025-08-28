@@ -1,6 +1,6 @@
 baseURL = "https://blog.hallotron.fyi/"
 languageCode = "en-US"
-title = "Hallotron journey"
+title = "Hallotron Harbor"
 theme = "gokarna-hugo"
 buildFuture = true
 paginate = 10
