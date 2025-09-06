@@ -27,7 +27,7 @@ It's a space, in which I find the willpower to run my life and do fun, impressiv
 
 I'm not sure how big is it, and I have no real way to check... 
 
-But I have to believe It's **filled by inspiration** and **emptied by doing good work**.  This actually ties well to the fact of my workaholism. Think about it... The fact that I have a model of a bucket, which powers my will and is filled by inspiring myself. Often with warrior-alike attitude. Iron Man, KungFu Panda.. others...
+But I have to believe It's **filled by inspiration** and **emptied by doing good work**. "Made weak by time and fate, but strong in will".  This actually ties well to the fact of my workaholism. **Think about it**... The fact that I have a model of a bucket, which powers my will and is filled by inspiring myself. Often with warrior-alike attitude. Iron Man, KungFu Panda.. others... A model of how tired and willing to work I am.
 
 There is a quote for this, I found out I liked for quite some time now.. It's in Polish, though
 
