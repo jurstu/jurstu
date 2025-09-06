@@ -9,6 +9,7 @@ title: "Elevators"
 type: "post"
 ---
 
+[code on github](https://github.com/jurstu/elevators)
 
 This week I learned about a new app for Androids: [phyPhox](https://phyphox.org/). It was shown to me by a **friend from work**. It was in a context of measuring the speed of elevators in buildings... 
 First things first - it allows to measure and log values from phones sensors - pressure, accelerometer, gyro, magnetometers, GPS, sound (amplitude, frequency). It's a quite well written app. 
@@ -21,4 +22,3 @@ My elevator be like:
 
 ![alt text](/elevators/image.png)
 
-[code on github](https://github.com/jurstu/elevators)
