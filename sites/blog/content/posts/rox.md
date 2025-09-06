@@ -9,6 +9,7 @@ title: "Rox"
 type: "post"
 ---
 
+{{< youtube lWo-Fx8NiOw >}}
 
 There is a bucket in my life. Not a bucket list, not a real bucket. 
 
@@ -39,10 +40,6 @@ Loosely translated it means:
 
 ```
 And even though I don’t want to, it pushes me through,
-What’s putty for me is a solid rock to you.
+What is putty to me is a solid rock to you.
 ``` 
 
-
-
-
-{{< youtube lWo-Fx8NiOw >}}
