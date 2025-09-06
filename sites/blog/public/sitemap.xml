@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.hallotron.fyi/</loc>
+    <loc>http://harold:1313/posts/elevators/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://harold:1313/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://harold:1313/posts/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://harold:1313/posts/rox/</loc>
+    <lastmod>2025-09-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://harold:1313/posts/first-photos-with-apsc/</loc>
+    <lastmod>2025-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://harold:1313/posts/bgremover/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.hallotron.fyi/posts/</loc>
+    <loc>http://harold:1313/posts/thev-log/</loc>
     <lastmod>2025-08-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.hallotron.fyi/posts/thev-log/</loc>
-    <lastmod>2025-08-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.hallotron.fyi/posts/hello-world/</loc>
+    <loc>http://harold:1313/posts/hello-world/</loc>
     <lastmod>2025-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.hallotron.fyi/categories/</loc>
+    <loc>http://harold:1313/categories/</loc>
   </url><url>
-    <loc>https://blog.hallotron.fyi/tags/</loc>
+    <loc>http://harold:1313/tags/</loc>
   </url>
 </urlset>

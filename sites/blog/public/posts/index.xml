@@ -1,25 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hallotron journey</title>
-    <link>https://blog.hallotron.fyi/posts/</link>
-    <description>Recent content in Posts on Hallotron journey</description>
+    <title>Posts on Hallotron Harbor</title>
+    <link>http://harold:1313/posts/</link>
+    <description>Recent content in Posts on Hallotron Harbor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.hallotron.fyi/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://harold:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elevators</title>
+      <link>http://harold:1313/posts/elevators/</link>
+      <pubDate>Sat, 06 Sep 2025 19:26:51 +0000</pubDate>
+      <guid>http://harold:1313/posts/elevators/</guid>
+      <description>This week I learned about a new app for Androids: phyPhox. It was shown to me by a friend from work. It was in a context of measuring the speed of elevators in buildings&amp;hellip; First things first - it allows to measure and log values from phones sensors - pressure, accelerometer, gyro, magnetometers, GPS, sound (amplitude, frequency). It&amp;rsquo;s a quite well written app. So, I have a super slow elevator in my building, where I live.</description>
+    </item>
+    <item>
+      <title>Rox</title>
+      <link>http://harold:1313/posts/rox/</link>
+      <pubDate>Sat, 06 Sep 2025 19:03:30 +0000</pubDate>
+      <guid>http://harold:1313/posts/rox/</guid>
+      <description>There is a bucket in my life. Not a bucket list, not a real bucket.&#xA;A metaphor of a bucket.&#xA;A place from which I feel like I draw my power. To do things, to be productive, &amp;ldquo;To strive, to seek, to find, and not to yield&amp;rdquo;.&#xA;There&amp;#39;s a secret place I like to go -Megadeth, Month before my birthday It&amp;rsquo;s a space, in which I find the willpower to run my life and do fun, impressive, good stuff.</description>
+    </item>
+    <item>
+      <title>First Photos With Apsc</title>
+      <link>http://harold:1313/posts/first-photos-with-apsc/</link>
+      <pubDate>Thu, 28 Aug 2025 20:46:42 +0000</pubDate>
+      <guid>http://harold:1313/posts/first-photos-with-apsc/</guid>
+      <description>On the weekend of 21-23.08.2025 I went to my home, where I took some photos with my new camera.&#xA;I wouldn&amp;rsquo;t say these are the best photos in the world, and I still have to learn a lot.. Yet still, I&amp;rsquo;m happy with them!</description>
+    </item>
+    <item>
+      <title>BgRemover</title>
+      <link>http://harold:1313/posts/bgremover/</link>
+      <pubDate>Wed, 27 Aug 2025 20:18:23 +0000</pubDate>
+      <guid>http://harold:1313/posts/bgremover/</guid>
+      <description>So uh, I kind of like to use background removers like remove.bg.. However there is an issue with them&amp;hellip;&#xA;They offer limited resolution of the output image and try charging like ~1$ per full image resolution inference&amp;hellip;&#xA;That seems un-cheap and I have the knowledge (insert Tai Lopez meme here) to build something like that for myself from ~scratch.&#xA;I recently adore NiceGUI for my projects and since this seems like a perfect use case I decided to go for it.</description>
+    </item>
     <item>
       <title>Thev Log</title>
-      <link>https://blog.hallotron.fyi/posts/thev-log/</link>
+      <link>http://harold:1313/posts/thev-log/</link>
       <pubDate>Wed, 27 Aug 2025 19:57:46 +0000</pubDate>
-      <guid>https://blog.hallotron.fyi/posts/thev-log/</guid>
-      <description>Creating this blog is kind of a fun part for me. Partly I hate it, but partly it&amp;rsquo;s a ready-made solution which requires proper configuration and a reasonable time spent to make it work.</description>
+      <guid>http://harold:1313/posts/thev-log/</guid>
+      <description>Creating this blog is kind of a fun part for me. Partly I hate it, but partly it&amp;rsquo;s a ready-made solution which requires proper configuration and a reasonable time spent to make it work. It&amp;rsquo;s mildly infuriating until you actually try to deploy it in a reasonable place like github pages. At that point it becomes simply unbearable.&#xA;It&amp;rsquo;s exactly like this, but I&amp;rsquo;m 3780 % more pissed than I should be 😅&amp;hellip;</description>
     </item>
     <item>
       <title>Hello World</title>
-      <link>https://blog.hallotron.fyi/posts/hello-world/</link>
+      <link>http://harold:1313/posts/hello-world/</link>
       <pubDate>Mon, 25 Aug 2025 19:44:23 +0000</pubDate>
-      <guid>https://blog.hallotron.fyi/posts/hello-world/</guid>
+      <guid>http://harold:1313/posts/hello-world/</guid>
       <description>Post number 1 At this point in time, I&amp;rsquo;m trying to get through installation of Hugo blog system&amp;hellip; somewhere in my infrastructure&amp;hellip; :]</description>
     </item>
   </channel>
