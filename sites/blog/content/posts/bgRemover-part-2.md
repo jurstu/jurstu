@@ -6,6 +6,8 @@ draft: false
 type: "post"
 ---
 
+Check out the [previous post]({{< relref "/posts/bgRemover.md" >}}).
+
 # work done until now
 
 [code on github](https://github.com/jurstu/BackgroundBlaster)

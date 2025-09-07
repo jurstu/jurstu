@@ -13,7 +13,7 @@
       <link>http://harold:1313/posts/bgremover-part-2/</link>
       <pubDate>Sun, 07 Sep 2025 17:49:17 +0000</pubDate>
       <guid>http://harold:1313/posts/bgremover-part-2/</guid>
-      <description>work done until now code on github&#xA;The original list(s):&#xA;nice-ish working front to be able to upload/download files actual background removal mechanix, but since it&amp;rsquo;s python this should be doable host it somewhere in my infra for it to be usable Nice to have-s:&#xA;instead of uploading an image pass a URL self-managed-file-deleting back-end option to select which model is used for the bgRemoval publically available on github to finally give back to community!</description>
+      <description>Check out the previous post.&#xA;work done until now code on github&#xA;The original list(s):&#xA;nice-ish working front to be able to upload/download files actual background removal mechanix, but since it&amp;rsquo;s python this should be doable host it somewhere in my infra for it to be usable Nice to have-s:&#xA;instead of uploading an image pass a URL self-managed-file-deleting back-end option to select which model is used for the bgRemoval publically available on github to finally give back to community!</description>
     </item>
     <item>
       <title>Elevators</title>
