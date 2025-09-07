@@ -6,6 +6,8 @@ draft: false
 type: "post"
 ---
 
+# work done until now
+
 [code on github](https://github.com/jurstu/BackgroundBlaster)
 
 The original list(s):
@@ -22,3 +24,14 @@ Nice to have-s:
 - [X] publically available on github to finally give back to community! 
 
 ![alt text](/bg-rm/output.gif)
+
+# probable next steps
+
+- [ ] reading from clipboard (image or URL)
+- [ ] checking if there are other models available
+- [ ] fixing not-working-formats (Avif)
+- [ ] hosting it on local infra
+
+![alt text](/bg-rm/image.png)
+
+![alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29zcW5rMHN3dXRrbnFmenhqdWd5ODE0Mmo4eTYwM2V3MXZ1dW91biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vFKqnCdLPNOKc/giphy.gif)
