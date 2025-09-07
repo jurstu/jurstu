@@ -6,8 +6,15 @@
     <description>Recent content on Hallotron Harbor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 20:30:00 +0000</lastBuildDate>
     <atom:link href="http://harold:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Photo</title>
+      <link>http://harold:1313/pictures/first-pictures/</link>
+      <pubDate>Sun, 07 Sep 2025 20:30:00 +0000</pubDate>
+      <guid>http://harold:1313/pictures/first-pictures/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Elevators</title>
       <link>http://harold:1313/posts/elevators/</link>
@@ -28,6 +35,13 @@
       <pubDate>Thu, 28 Aug 2025 20:46:42 +0000</pubDate>
       <guid>http://harold:1313/posts/first-photos-with-apsc/</guid>
       <description>On the weekend of 21-23.08.2025 I went to my home, where I took some photos with my new camera.&#xA;I wouldn&amp;rsquo;t say these are the best photos in the world, and I still have to learn a lot.. Yet still, I&amp;rsquo;m happy with them!</description>
+    </item>
+    <item>
+      <title>BgRemover</title>
+      <link>http://harold:1313/pictures/test/</link>
+      <pubDate>Wed, 27 Aug 2025 20:18:23 +0000</pubDate>
+      <guid>http://harold:1313/pictures/test/</guid>
+      <description></description>
     </item>
     <item>
       <title>BgRemover</title>

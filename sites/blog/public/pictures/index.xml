@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pictures on Hallotron Harbor</title>
+    <link>http://harold:1313/pictures/</link>
+    <description>Recent content in Pictures on Hallotron Harbor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://harold:1313/pictures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First pictures</title>
+      <link>http://harold:1313/pictures/first-pictures/</link>
+      <pubDate>Wed, 27 Aug 2025 20:18:23 +0000</pubDate>
+      <guid>http://harold:1313/pictures/first-pictures/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
