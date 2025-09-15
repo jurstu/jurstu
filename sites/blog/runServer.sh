@@ -1,1 +1,1 @@
-hugo server --bind=0.0.0.0  --buildFuture -v --baseURL=http://harold:1313/ -D
+hugo server --bind=0.0.0.0  --buildFuture -v --baseURL=http://localhost:1313/ -D

@@ -14,6 +14,9 @@ mainSections = ["posts", "pictures"]
   # Remove leading slash: this will resolve to https://jurstu.github.io/blog/bg/output.png
   avatarURL = "https://blog.hallotron.fyi/bg/output.png"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 
 [menu]
 
