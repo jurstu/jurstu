@@ -9,6 +9,8 @@ title: "GpsAnalisys"
 type: "post"
 ---
 
+This one, I genuinely vibe coded in 10 minutes..
+
 [code](https://github.com/jurstu/waypointsAnalisys/blob/main/main.ipynb)
 
 <iframe src="/gps/gps.html" width="100%" height="7300px" style="border:none;">
