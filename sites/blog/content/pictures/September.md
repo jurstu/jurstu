@@ -10,12 +10,17 @@ type: "post"
 ---
 
 ![](https://zulu.hallotron.fyi/blogMedia/photos/September/optimized/DSCF2260.JPG)
-
 ![](https://zulu.hallotron.fyi/blogMedia/photos/September/optimized/DSCF2451.JPG)
 ![](https://zulu.hallotron.fyi/blogMedia/photos/September/optimized/image.png)
 ![](https://zulu.hallotron.fyi/blogMedia/photos/September/optimized/kaczk3.png)
 ![](https://zulu.hallotron.fyi/blogMedia/photos/September/optimized/kaczka.png)
-
 ![](https://zulu.hallotron.fyi/blogMedia/photos/September/optimized/kaczka2.png)
 
-![](https://zulu.hallotron.fyi/blogMedia/photos/September/stabilized.mp4)
+
+<video controls>
+  <source src="https://zulu.hallotron.fyi/blogMedia/photos/September/stabilized.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
