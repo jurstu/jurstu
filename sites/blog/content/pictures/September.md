@@ -17,7 +17,7 @@ type: "post"
 ![](https://zulu.hallotron.fyi/blogMedia/photos/September/optimized/kaczka2.png)
 
 
-<video controls>
+<video controls  width="640">
   <source src="https://zulu.hallotron.fyi/blogMedia/photos/September/stabilized.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
