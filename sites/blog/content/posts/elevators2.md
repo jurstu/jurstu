@@ -5,7 +5,7 @@ date: 2025-10-11T15:48:40-04:00
 lastmod: 2025-10-11
 showTableOfContents: false
 # tags: ["",]
-title: "Elevators2"
+title: "Elevators part 2"
 type: "post"
 ---
 
@@ -20,3 +20,7 @@ This week I've been to NYC, and among seeing nice sights I've visited some skysc
 **-7m/s** Yikes, that's fast. Besides - look at that S curve ! It's almost like.. someone actually designed it that way : - ) 
 
 ![alt text](/elevators/scurve.png)
+
+
+
+Photos and stories from NYC coming later, probably next week.
