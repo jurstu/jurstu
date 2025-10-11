@@ -6,8 +6,15 @@
     <description>Recent content in Pictures on Hallotron Harbor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pictures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>September Pictures</title>
+      <link>http://localhost:1313/pictures/september/</link>
+      <pubDate>Fri, 26 Sep 2025 05:18:23 +0000</pubDate>
+      <guid>http://localhost:1313/pictures/september/</guid>
+      <description> Your browser does not support the video tag. </description>
+    </item>
     <item>
       <title>First pictures</title>
       <link>http://localhost:1313/pictures/first-pictures/</link>
