@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pictures on Hallotron Harbor</title>
-    <link>http://harold:1313/pictures/</link>
+    <link>http://localhost:1313/pictures/</link>
     <description>Recent content in Pictures on Hallotron Harbor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://harold:1313/pictures/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pictures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>September Pictures</title>
+      <link>http://localhost:1313/pictures/september/</link>
+      <pubDate>Fri, 26 Sep 2025 05:18:23 +0000</pubDate>
+      <guid>http://localhost:1313/pictures/september/</guid>
+      <description> Your browser does not support the video tag. </description>
+    </item>
     <item>
       <title>First pictures</title>
-      <link>http://harold:1313/pictures/first-pictures/</link>
+      <link>http://localhost:1313/pictures/first-pictures/</link>
       <pubDate>Wed, 27 Aug 2025 20:18:23 +0000</pubDate>
-      <guid>http://harold:1313/pictures/first-pictures/</guid>
+      <guid>http://localhost:1313/pictures/first-pictures/</guid>
       <description></description>
     </item>
   </channel>
