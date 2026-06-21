@@ -1,3 +1,3 @@
 # blog
 
-git clone --recurse-submodules git@github.com:jurstu/blog.git
+git clone --recurse-submodules git@github.com:jurstu/jurstu.git
