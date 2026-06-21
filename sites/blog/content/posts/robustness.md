@@ -46,7 +46,7 @@ Think like a hacker: how could I modify the input to this function in order to m
 
 # The robustness of the solution
 
-![alt text](/bg-rm/image.png)
+![alt text](/robustness/image.png)
 
 Using the tutorials is fun, but real work, having a job and doing something for money (professionally) requires some actual responsibility. The tutorials often skip over this, as they are a entry for a beginner. Nobody at this level really wants to know, that the detector will produce the bounding box for skateboards only 12.34% of the time there is any skateboard in the frame. They want to see anything work and honestly? That's what should happen - they should get hooked on that feeling - "Eureka, It's working" and stuff like that. This is unfortunate however for higher-level professionals. 
 
