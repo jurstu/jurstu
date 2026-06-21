@@ -63,9 +63,7 @@ Robustness - we can't rely on 20%, 60% or even 80%, the detector has to work 95%
 
 # The actual point, of using the solution
 
-<video width="1280" height="720" controls autoplay loop muted playsinline>
-  <source src="https://uploads-ssl.webflow.com/5f6bc60e665f54545a1e52a5%2F66cbe0d3a16f4df0bb5a151c_traffic-1-transcode.mp4" type="video/mp4">
-</video>
+<video src="https://uploads-ssl.webflow.com/5f6bc60e665f54545a1e52a5%2F66cbe0d3a16f4df0bb5a151c_traffic-1-transcode.mp4" autoplay loop muted playsinline controls style="width: 100%; height: auto; display: block;" ></video>
 
 Detecting the skateboard is one part, and even though it may not seem so, it's the easy part. The hard part is using that detection. Think about it, all the tutorials, all the videos and demos - they all can show, how do we detect skateboards on video - and it's great, don't get me wrong. There is a problem however - this was never the endgame - showing the bounding box on the screen after the cpu (or whatever does the fucking calculations these days) has detected something is actually useless. Using that data later on is what makes it valuable. 
 
